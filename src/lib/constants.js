@@ -1,0 +1,90 @@
+export const logoimages = [
+  {
+    alt: "VERCEL",
+    src: "/assets/vercel.svg",
+    width: "520",
+    height: "182",
+  },
+  {
+    alt: "PRISMA",
+    src: "/assets/prisma.svg",
+    width: "520",
+    height: "182",
+  },
+  {
+    alt: "RAYCAST",
+    src: "/assets/raycast.svg",
+    width: "520",
+    height: "182",
+  },
+  {
+    alt: "CLERK",
+    src: "/assets/clerk.svg",
+    width: "520",
+    height: "182",
+  },
+  {
+    alt: "HASHNODE",
+    src: "/assets/hashnode.svg",
+    width: "520",
+    height: "182",
+  },
+  {
+    alt: "PERPLEXITY",
+    src: "/assets/perplexity.svg",
+    width: "520",
+    height: "182",
+  },
+  {
+    alt: "CAL",
+    src: "/assets/cal.svg",
+    width: "520",
+    height: "182",
+  },
+  {
+    alt: "REPLICATE",
+    src: "/assets/replicate.svg",
+    width: "520",
+    height: "182",
+  },
+  {
+    alt: "FRAMER",
+    src: "/assets/framer.svg",
+    width: "520",
+    height: "182",
+  },
+  {
+    alt: "TINYBIRD",
+    src: "/assets/tinybird.svg",
+    width: "520",
+    height: "182",
+  },
+  {
+    alt: "ATTIO",
+    src: "/assets/attio.svg",
+    width: "520",
+    height: "182",
+  },
+  {
+    alt: "APPWRITE",
+    src: "/assets/appwrite.svg",
+    width: "520",
+    height: "182",
+  },
+];
+
+export const faqs = [
+  " Which Dub.co plan is right for me?",
+  "Do you offer a free trial?",
+  "By 1,000 links/mo, do you mean I can create 1,000 new links per month?",
+  " What happens when I exceed the links limit on my plan?",
+  " If I delete a link, does it reduce my link usage for the month?",
+  "What happens when I exceed the tracked clicks limit on my plan?",
+  " Do clicks on my root domain count towards my tracked clicks limit?",
+  "Can I cancel my subscription at any time?",
+  "Can I use the free plan for commercial purposes?",
+  " Do you offer any discounts?",
+  "  What are your data privacy &amp;security policies?",
+  "I have more questions about Dub.co. How can I get in touch?",
+  "",
+];
