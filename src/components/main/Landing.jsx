@@ -1,17 +1,12 @@
 
 import React, { useState } from "react";
-import Confetti from "react-confetti-boom";
+import Confettifunction from "./Confettifunction";
 import { Switch } from "../ui/switch";
+import Confetti from "react-confetti-boom";
+import ConfettiExplosion from "react-confetti-explosion";
 
 const Landing = () => {
     const [isSwitchOn, setIsSwitchOn] = useState(false);
-    const [explosionTriggered, setExplosionTriggered] = useState(false);
-  const handleExplosionButtonClick = () => {
-    setExplosionTriggered(true);
-    // Turn off the explosion after 3 seconds
-    setTimeout(() => setExplosionTriggered(false), 3000);
-  };
-
   return (
     <div className="mx-auto w-full max-w-screen-xl px-2.5 lg:px-20 mb-8 mt-16">
     <div className="mx-auto mb-6 text-center sm:max-w-lg">
@@ -29,27 +24,8 @@ const Landing = () => {
     <div className="mx-auto mb-12 flex max-w-fit items-center space-x-2 text-center">
       <p className="w-14 font-medium text-gray-600">Monthly</p>
       <div className="position:relative"></div>
-          
-      <Switch checked={isSwitchOn} onClick={handleExplosionButtonClick}  onCheckedChange={setIsSwitchOn} />
-      {isSwitchOn && <Confetti
-          mode="fall "
-          x={100}
-          y={100}
-          particleCount={10}
-          deg={270}
-          shapeSize={20}
-          spreadDeg={45}
-          effectInterval={30}
-          effectCount={1}
-          colors={[
-            "#ff577f",
-            "#ff884b",
-            "#ffd384",
-            "#fff9b0",
-            "#3498db",
-          ]}
-        />
-        }
+      <Switch checked={isSwitchOn}  onCheckedChange={setIsSwitchOn} />
+      {isSwitchOn && ConfettiExplosion}
       <p className="w-14 font-medium text-gray-600">Yearly</p>
     </div>
     <div className="grid grid-cols-1 gap-8 lg:grid-cols-4 lg:gap-4">

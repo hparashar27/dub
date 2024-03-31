@@ -3,6 +3,7 @@ import Landing from "@/components/main/Landing";
 import Faqs from "@/components/main/Faqs";
 import Table from "@/components/main/Table";
 import Testimonials from "@/components/main/Testimonials";
+import Animated from "../../components/main/Animated";
 
 const page = () => {
   return (
@@ -12,6 +13,7 @@ const page = () => {
         <div className="flex min-h-screen flex-col justify-between">
           <Landing/>
           <Testimonials/>
+          <Animated/>
           <Table/>
           <Faqs/>
         </div>

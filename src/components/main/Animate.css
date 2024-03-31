@@ -1,0 +1,13 @@
+.element-tranform{
+    transform: skew(45deg, 135deg);
+    animation: autoscroll 20s  linear infinite; /* Apply autoscrolling animation */
+  }
+  
+  @keyframes autoscroll {
+    0% {
+      transform:rotateX(20deg) rotate(-20deg) skewX(20deg) translateZ(0) translateY(-20%);
+    }
+    100% {
+      transform: rotateX(20deg) rotate(-20deg) skewX(20deg) translateZ(0) translateY(-120%);
+    }
+  }
