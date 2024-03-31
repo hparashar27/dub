@@ -126,7 +126,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -164,7 +164,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -202,7 +202,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -240,7 +240,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -278,7 +278,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -318,7 +318,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -418,7 +418,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -518,7 +518,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -618,7 +618,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -654,7 +654,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -692,7 +692,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -730,7 +730,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -832,7 +832,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -918,7 +918,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -1004,7 +1004,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -1090,7 +1090,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -1176,7 +1176,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -1262,7 +1262,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -1348,7 +1348,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -1434,7 +1434,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -1502,7 +1502,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -1556,7 +1556,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -1608,7 +1608,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -1646,7 +1646,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -1698,7 +1698,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
@@ -1752,7 +1752,7 @@ const Table = () => {
                             stroke-linecap="round"
                             stroke-linejoin="round"
                             className="lucide lucide-circle-help h-4 w-4 flex-none text-gray-600"
-                            data-state="closed"
+                            
                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
